@@ -1,8 +1,8 @@
 # eight_queens
 A simple solution for the eight queens puzzle.
 
-`make`
-`./eight_queens`
+`make`<br>
+`./eight_queens`<br>
 `+---+---+---+---+---+---+---+---+`<br>
 `| Q |   |   |   |   |   |   |   |`<br>
 `+---+---+---+---+---+---+---+---+`<br>
